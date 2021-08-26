@@ -1,0 +1,577 @@
+08-26_17.09.52.165[localplayer][I][32586][yylocalplayersdk.cpp(540)]:######## built time:May 12 2021 11:40:47 DEBUG:8 logHandler:0x0 ########
+08-26_17.09.52.170[localplayer][D][32586][r/LocalPlayerJni.cpp(297)]:Here nativeConfig
+08-26_17.09.52.170[localplayer][D][32586][ayerJitterDecide.cpp(831)]:in fun:setABTestConfig, mTargetNotRebufferLength:10000 mPrefetchStrategy:0 mUsedStrategy:1 mBufferThreshold:1 10 20 30 40 50 mWaitThresholdMin:5 10 15 20 25 30, mWaitThresholdMax:10 15 20 25 30 35
+08-26_17.09.52.170[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:256, val:384
+08-26_17.09.52.170[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:257, val:143
+08-26_17.09.52.170[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:132, val:65355
+08-26_17.09.52.170[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:2055, val:1
+08-26_17.09.52.170[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:265, val:426900
+08-26_17.09.52.170[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:266, val:0
+08-26_17.09.52.170[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:267, val:427284
+08-26_17.09.52.170[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:268, val:0
+08-26_17.09.52.170[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:269, val:427924
+08-26_17.09.52.170[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:270, val:0
+08-26_17.09.52.170[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:271, val:99
+08-26_17.09.52.170[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:281, val:5
+08-26_17.09.52.170[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:283, val:1
+08-26_17.09.52.170[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:4133, val:36436480
+08-26_17.09.52.170[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:4135, val:167896470
+08-26_17.09.52.170[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:4137, val:0
+08-26_17.09.52.170[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:323, val:1
+08-26_17.09.52.170[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:2000, val:0
+08-26_17.09.52.170[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:2001, val:1
+08-26_17.09.52.170[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:2002, val:100
+08-26_17.09.52.170[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:2003, val:82561
+08-26_17.09.52.170[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:2005, val:62085
+08-26_17.09.52.170[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:2007, val:82890
+08-26_17.09.52.170[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:2009, val:0
+08-26_17.09.52.170[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:218, val:10
+08-26_17.09.52.170[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:2010, val:12000
+08-26_17.09.52.171[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:2011, val:20000
+08-26_17.09.52.171[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:220, val:65538
+08-26_17.09.52.171[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:221, val:1
+08-26_17.09.52.171[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:2014, val:15000
+08-26_17.09.52.171[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:2016, val:0
+08-26_17.09.52.171[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:225, val:2
+08-26_17.09.52.171[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:2017, val:50
+08-26_17.09.52.171[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:229, val:2881536
+08-26_17.09.52.171[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:230, val:1193816611
+08-26_17.09.52.171[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:232, val:0
+08-26_17.09.52.171[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:235, val:0
+08-26_17.09.52.171[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:236, val:428574
+08-26_17.09.52.171[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:237, val:18
+08-26_17.09.52.171[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:2030, val:0
+08-26_17.09.52.171[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:2031, val:200
+08-26_17.09.52.171[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:240, val:10
+08-26_17.09.52.171[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:2032, val:0
+08-26_17.09.52.171[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:241, val:251782550
+08-26_17.09.52.171[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:2033, val:680061248
+08-26_17.09.52.171[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:2034, val:209756160
+08-26_17.09.52.171[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:2036, val:0
+08-26_17.09.52.171[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:245, val:21
+08-26_17.09.52.171[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:246, val:528133
+08-26_17.09.52.171[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:251, val:256
+08-26_17.09.52.171[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:252, val:3
+08-26_17.09.52.171[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:253, val:427668
+08-26_17.09.52.171[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:254, val:0
+08-26_17.09.52.171[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:255, val:1310790
+08-26_17.09.52.171[localplayer][D][32586][oPlayerSdkConfig.cpp(071)]:updateConfigs config key: 23, value: 65355
+08-26_17.09.52.171[localplayer][D][32586][oPlayerSdkConfig.cpp(071)]:updateConfigs config key: 27, value: 1
+08-26_17.09.52.171[localplayer][D][32586][oPlayerSdkConfig.cpp(071)]:updateConfigs config key: 26, value: 1
+08-26_17.09.52.171[localplayer][D][32586][oPlayerSdkConfig.cpp(071)]:updateConfigs config key: 0, value: 0
+08-26_17.09.52.171[localplayer][D][32586][oPlayerSdkConfig.cpp(071)]:updateConfigs config key: 2, value: 0
+08-26_17.09.52.171[localplayer][D][32586][oPlayerSdkConfig.cpp(071)]:updateConfigs config key: 25, value: 65538
+08-26_17.09.52.171[localplayer][D][32586][oPlayerSdkConfig.cpp(071)]:updateConfigs config key: 24, value: 0
+08-26_17.09.52.171[localplayer][D][32586][oPlayerSdkConfig.cpp(071)]:updateConfigs config key: 4, value: 0
+08-26_17.09.52.171[localplayer][D][32586][oPlayerSdkConfig.cpp(071)]:updateConfigs config key: 5, value: 680061248
+08-26_17.09.52.171[localplayer][D][32586][oPlayerSdkConfig.cpp(109)]:mEnableNewPrefetchStrategy: 0, mPrefetchExtraDuration: 0, mPrefetchSpeedFactor: 0.500000                      mPrefetchFactor: 1.000000, mMaxPrefetchPercent: 0.300000, mMinPrefetchPercent:0.200000,                      mMinRemainCanPlayDuration: 2000, mMinRemainCanPlayDurationFactor: 1.000000, mEnablePrefetchStrategyPlus: 0
+08-26_17.09.52.171[localplayer][D][32586][oPlayerSdkConfig.cpp(071)]:updateConfigs config key: 6, value: 209756160
+08-26_17.09.52.171[localplayer][D][32586][oPlayerSdkConfig.cpp(120)]:mPlayTraceHighDensityMaxCnt: 0, mPlayTraceLowDensityMaxCnt: 0,                  mPlayTraceHighDensityInterval: 200 ms, mPlayTraceLowDensityInterval: 1000 ms
+08-26_17.09.52.171[localplayer][D][32586][oPlayerSdkConfig.cpp(071)]:updateConfigs config key: 8, value: 0
+08-26_17.09.52.176[localplayer][D][32586][r/LocalPlayerJni.cpp(529)]:minB:12000 maxBuff:20000 bufferPlayback:2500 afterRebuff:5000 minDuration:15000 maxDuration:40000 totalDuration:0 l2M3u8Size:0 keySize:54 abrAlgo:0
+08-26_17.09.52.176[localplayer][D][32586][wnloadController.cpp(901)]:startDl:12000 stopDl:20000 bufferForPlay:2500 bufferAfterRebuff:5000 totalDuration:0 l2M3U8Size:0 abrAlgo:0, autoInitResolution:0
+08-26_17.09.52.176[localplayer][I][32586][ayerJitterDecide.cpp(703)]:[njitter]in fun:setConfigs,old p(0.050000 0.025000 0.050000 1.050000 1.200000 0.100000), 20, 40, 20, 10, 40, 10
+08-26_17.09.52.176[localplayer][I][32586][ayerJitterDecide.cpp(720)]:[njitter]in fun:setConfigs,new p(0.050000 0.025000 0.050000 1.050000 1.200000 0.100000)
+08-26_17.09.52.176[localplayer][I][32586][ayerJitterDecide.cpp(740)]:[njitter]in fun:setConfigsEx,old p(5000 2147483647 500 0.333333 0.500000) 30, 20, 10, 26, 0, 0, 0, 0, 1
+08-26_17.09.52.176[localplayer][I][32586][ayerJitterDecide.cpp(766)]:[njitter]in fun:setConfigsEx,new p(3000 2000 500 0.203125 0.500000) (0, 0, 0, 1)
+08-26_17.09.52.176[localplayer][D][32586][/MediaPlayerImpl.cpp(1430)]:setConfig enableWriteCache:0, disableHlsFastStart:0
+08-26_17.09.52.176[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:256, val:384
+08-26_17.09.52.176[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:257, val:143
+08-26_17.09.52.176[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:132, val:65355
+08-26_17.09.52.176[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:2055, val:1
+08-26_17.09.52.176[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:265, val:426900
+08-26_17.09.52.176[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:266, val:0
+08-26_17.09.52.176[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:267, val:427284
+08-26_17.09.52.176[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:268, val:0
+08-26_17.09.52.176[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:269, val:427924
+08-26_17.09.52.176[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:270, val:0
+08-26_17.09.52.176[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:271, val:99
+08-26_17.09.52.176[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:281, val:5
+08-26_17.09.52.176[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:283, val:1
+08-26_17.09.52.176[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:4133, val:36436480
+08-26_17.09.52.176[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:4135, val:167896470
+08-26_17.09.52.176[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:4137, val:0
+08-26_17.09.52.176[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:323, val:1
+08-26_17.09.52.176[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:2000, val:0
+08-26_17.09.52.176[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:2001, val:1
+08-26_17.09.52.176[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:2002, val:100
+08-26_17.09.52.176[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:2003, val:82561
+08-26_17.09.52.176[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:2005, val:62085
+08-26_17.09.52.176[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:2007, val:82890
+08-26_17.09.52.176[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:2009, val:0
+08-26_17.09.52.176[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:218, val:10
+08-26_17.09.52.176[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:2010, val:12000
+08-26_17.09.52.176[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:2011, val:20000
+08-26_17.09.52.176[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:220, val:65538
+08-26_17.09.52.176[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:221, val:1
+08-26_17.09.52.176[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:2014, val:15000
+08-26_17.09.52.176[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:2016, val:0
+08-26_17.09.52.176[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:225, val:2
+08-26_17.09.52.176[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:2017, val:50
+08-26_17.09.52.176[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:229, val:2881536
+08-26_17.09.52.176[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:230, val:1193816611
+08-26_17.09.52.176[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:232, val:0
+08-26_17.09.52.176[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:235, val:0
+08-26_17.09.52.176[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:236, val:428574
+08-26_17.09.52.176[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:237, val:18
+08-26_17.09.52.176[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:2030, val:0
+08-26_17.09.52.176[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:2031, val:200
+08-26_17.09.52.176[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:240, val:10
+08-26_17.09.52.176[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:2032, val:0
+08-26_17.09.52.177[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:241, val:251782550
+08-26_17.09.52.177[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:2033, val:680061248
+08-26_17.09.52.177[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:2034, val:209756160
+08-26_17.09.52.177[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:2036, val:0
+08-26_17.09.52.177[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:245, val:21
+08-26_17.09.52.177[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:246, val:528133
+08-26_17.09.52.177[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:251, val:256
+08-26_17.09.52.177[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:252, val:3
+08-26_17.09.52.177[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:253, val:427668
+08-26_17.09.52.177[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:254, val:0
+08-26_17.09.52.177[localplayer][D][32586][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:255, val:1310790
+08-26_17.09.52.177[localplayer][D][32586][oPlayerSdkConfig.cpp(071)]:updateConfigs config key: 1, value: 50
+08-26_17.09.52.177[localplayer][D][32586][oPlayerSdkConfig.cpp(071)]:updateConfigs config key: 3, value: 200
+08-26_17.09.52.181[localplayer][D][32586][yylocalplayersdk.cpp(605)]:yylocalplayersdk_setForceDisableHWDecoderFlag:0
+08-26_17.09.53.899[localplayer][D][524][r/LocalPlayerJni.cpp(297)]:Here nativeConfig
+08-26_17.09.53.899[localplayer][D][524][ayerJitterDecide.cpp(831)]:in fun:setABTestConfig, mTargetNotRebufferLength:10000 mPrefetchStrategy:0 mUsedStrategy:1 mBufferThreshold:1 10 20 30 40 50 mWaitThresholdMin:5 10 15 20 25 30, mWaitThresholdMax:10 15 20 25 30 35
+08-26_17.09.53.899[localplayer][D][524][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:256, val:384
+08-26_17.09.53.899[localplayer][D][524][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:257, val:143
+08-26_17.09.53.899[localplayer][D][524][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:132, val:65355
+08-26_17.09.53.899[localplayer][D][524][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:2055, val:1
+08-26_17.09.53.899[localplayer][D][524][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:265, val:426900
+08-26_17.09.53.899[localplayer][D][524][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:266, val:0
+08-26_17.09.53.899[localplayer][D][524][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:267, val:427284
+08-26_17.09.53.899[localplayer][D][524][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:268, val:0
+08-26_17.09.53.899[localplayer][D][524][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:269, val:427924
+08-26_17.09.53.899[localplayer][D][524][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:270, val:0
+08-26_17.09.53.899[localplayer][D][524][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:271, val:99
+08-26_17.09.53.899[localplayer][D][524][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:281, val:5
+08-26_17.09.53.899[localplayer][D][524][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:283, val:1
+08-26_17.09.53.899[localplayer][D][524][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:4133, val:36436480
+08-26_17.09.53.899[localplayer][D][524][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:4135, val:167896470
+08-26_17.09.53.899[localplayer][D][524][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:4137, val:0
+08-26_17.09.53.899[localplayer][D][524][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:323, val:1
+08-26_17.09.53.899[localplayer][D][524][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:2000, val:0
+08-26_17.09.53.899[localplayer][D][524][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:2001, val:1
+08-26_17.09.53.899[localplayer][D][524][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:2002, val:100
+08-26_17.09.53.899[localplayer][D][524][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:2003, val:82561
+08-26_17.09.53.899[localplayer][D][524][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:2005, val:62085
+08-26_17.09.53.899[localplayer][D][524][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:2007, val:82890
+08-26_17.09.53.899[localplayer][D][524][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:2009, val:0
+08-26_17.09.53.899[localplayer][D][524][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:218, val:10
+08-26_17.09.53.899[localplayer][D][524][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:2010, val:12000
+08-26_17.09.53.899[localplayer][D][524][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:2011, val:20000
+08-26_17.09.53.899[localplayer][D][524][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:220, val:65538
+08-26_17.09.53.899[localplayer][D][524][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:221, val:1
+08-26_17.09.53.899[localplayer][D][524][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:2014, val:15000
+08-26_17.09.53.899[localplayer][D][524][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:2016, val:0
+08-26_17.09.53.899[localplayer][D][524][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:225, val:2
+08-26_17.09.53.899[localplayer][D][524][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:2017, val:50
+08-26_17.09.53.899[localplayer][D][524][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:229, val:2881536
+08-26_17.09.53.899[localplayer][D][524][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:230, val:1193816611
+08-26_17.09.53.899[localplayer][D][524][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:232, val:0
+08-26_17.09.53.899[localplayer][D][524][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:235, val:0
+08-26_17.09.53.899[localplayer][D][524][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:236, val:428574
+08-26_17.09.53.899[localplayer][D][524][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:237, val:18
+08-26_17.09.53.899[localplayer][D][524][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:2030, val:0
+08-26_17.09.53.899[localplayer][D][524][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:2031, val:200
+08-26_17.09.53.899[localplayer][D][524][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:240, val:10
+08-26_17.09.53.899[localplayer][D][524][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:2032, val:0
+08-26_17.09.53.899[localplayer][D][524][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:241, val:251782550
+08-26_17.09.53.899[localplayer][D][524][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:2033, val:680061248
+08-26_17.09.53.899[localplayer][D][524][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:2034, val:209756160
+08-26_17.09.53.899[localplayer][D][524][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:2036, val:0
+08-26_17.09.53.899[localplayer][D][524][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:245, val:21
+08-26_17.09.53.899[localplayer][D][524][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:246, val:528133
+08-26_17.09.53.899[localplayer][D][524][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:251, val:256
+08-26_17.09.53.899[localplayer][D][524][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:252, val:3
+08-26_17.09.53.899[localplayer][D][524][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:253, val:427668
+08-26_17.09.53.899[localplayer][D][524][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:254, val:0
+08-26_17.09.53.899[localplayer][D][524][client/SdkConfig.cpp(248)]:[localplayer]:in fun:addConfigs, key:255, val:1310790
+08-26_17.09.53.899[localplayer][D][524][oPlayerSdkConfig.cpp(071)]:updateConfigs config key: 23, value: 65355
+08-26_17.09.53.899[localplayer][D][524][oPlayerSdkConfig.cpp(071)]:updateConfigs config key: 27, value: 1
+08-26_17.09.53.899[localplayer][D][524][oPlayerSdkConfig.cpp(071)]:updateConfigs config key: 26, value: 1
+08-26_17.09.53.899[localplayer][D][524][oPlayerSdkConfig.cpp(071)]:updateConfigs config key: 0, value: 0
+08-26_17.09.53.899[localplayer][D][524][oPlayerSdkConfig.cpp(071)]:updateConfigs config key: 2, value: 0
+08-26_17.09.53.899[localplayer][D][524][oPlayerSdkConfig.cpp(071)]:updateConfigs config key: 25, value: 65538
+08-26_17.09.53.900[localplayer][D][524][oPlayerSdkConfig.cpp(071)]:updateConfigs config key: 24, value: 0
+08-26_17.09.53.900[localplayer][D][524][oPlayerSdkConfig.cpp(071)]:updateConfigs config key: 4, value: 0
+08-26_17.09.53.900[localplayer][D][524][oPlayerSdkConfig.cpp(071)]:updateConfigs config key: 5, value: 680061248
+08-26_17.09.53.900[localplayer][D][524][oPlayerSdkConfig.cpp(109)]:mEnableNewPrefetchStrategy: 0, mPrefetchExtraDuration: 0, mPrefetchSpeedFactor: 0.500000                      mPrefetchFactor: 1.000000, mMaxPrefetchPercent: 0.300000, mMinPrefetchPercent:0.200000,                      mMinRemainCanPlayDuration: 2000, mMinRemainCanPlayDurationFactor: 1.000000, mEnablePrefetchStrategyPlus: 0
+08-26_17.09.53.900[localplayer][D][524][oPlayerSdkConfig.cpp(071)]:updateConfigs config key: 6, value: 209756160
+08-26_17.09.53.900[localplayer][D][524][oPlayerSdkConfig.cpp(120)]:mPlayTraceHighDensityMaxCnt: 0, mPlayTraceLowDensityMaxCnt: 0,                  mPlayTraceHighDensityInterval: 200 ms, mPlayTraceLowDensityInterval: 1000 ms
+08-26_17.09.53.900[localplayer][D][524][oPlayerSdkConfig.cpp(071)]:updateConfigs config key: 8, value: 0
+08-26_17.09.53.907[localplayer][D][524][yylocalplayersdk.cpp(605)]:yylocalplayersdk_setForceDisableHWDecoderFlag:0
+08-26_17.09.53.908[localplayer][D][524][yylocalplayersdk.cpp(583)]:yylocalplayersdk_setHWDecoderMask 0
+08-26_17.09.53.908[localplayer][E][524][ideoDecodeHelper.cpp(2151)]:mHWDecoderMask=0
+08-26_17.09.53.908[localplayer][I][524][r/LocalPlayerJni.cpp(562)]:nativePrepare ++
+08-26_17.09.53.911[localplayer][I][524][ideo/ShortPlayer.cpp(173)]:onStartPlay playMode:0
+08-26_17.09.53.912[localplayer][D][524][/Mp4DownloadTask.cpp(034)]:New Mp4DownloadTask 0xc59e6d30 for https://sgp-test.imo.im/s/object_a/.G12yliMpjARCqectYLMgNZLkkBV/ 
+08-26_17.09.53.912[localplayer][D][524][efetchController.cpp(246)]:pausePrefetch
+08-26_17.09.53.912[localplayer][D][524][efetchController.cpp(310)]:prefetch state changed, 0 to 1
+08-26_17.09.53.912[localplayer][D][524][efetchController.cpp(097)]:PrefetchExecutorWrapper onPausePrefetch
+08-26_17.09.53.912[localplayer][D][524][PrefetchExecutor.cpp(139)]:pause cur task
+08-26_17.09.53.912[localplayer][D][524][r/LocalPlayerJni.cpp(584)]:nativePrepare-- id:1
+08-26_17.09.53.912[localplayer][D][459][/Mp4DownloadTask.cpp(102)]:start execute
+08-26_17.09.53.912[localplayer][D][459][/Mp4DownloadTask.cpp(119)]:name /storage/emulated/0/Android/data/com.imo.android.imoim/files/nerv-cache2/4854472239181550580/54c054f8b7af0bd47e311bdb88cf26f5cb6b0a0b/54c054f8b7af0bd47e311bdb88cf26f5cb6b0a0b, initCacheSize 0 use readtonull 1
+08-26_17.09.53.913[localplayer][I][458][ideo/ShortPlayer.cpp(191)]:handleStartPlay
+08-26_17.09.53.914[localplayer][I][524][r/LocalPlayerJni.cpp(866)]:nativeStop
+08-26_17.09.53.914[localplayer][I][524][ideo/ShortPlayer.cpp(260)]:stopPlay
+08-26_17.09.53.914[localplayer][D][524][/Mp4DownloadTask.cpp(226)]:cancel
+08-26_17.09.53.915[localplayer][D][459][/Mp4DownloadTask.cpp(277)]:download cancelled
+08-26_17.09.53.915[localplayer][D][459][ideo/ShortPlayer.cpp(484)]:onDownloadResult 0
+08-26_17.09.53.915[localplayer][D][458][video/Mp4Adaptor.cpp(090)]:new Mp4Adaptor, id: 1
+08-26_17.09.53.916[localplayer][I][458][yylocalplayersdk.cpp(308)]:yylocalplayersdk_enablePeekFirstVFrameInInitialState 0
+08-26_17.09.53.916[localplayer][D][459][DownloadExecutor.cpp(141)]:download thread paused
+08-26_17.09.53.916[localplayer][D][459][efetchController.cpp(265)]:resumePrefetch
+08-26_17.09.53.916[localplayer][D][459][efetchController.cpp(270)]:resumePrefetch fixedDuration 0
+08-26_17.09.53.916[localplayer][D][459][efetchController.cpp(310)]:prefetch state changed, 1 to 0
+08-26_17.09.53.916[localplayer][D][536][PAL_Thread_posix.cpp(244)]:Thread with name:audio_mix_thread started 
+08-26_17.09.53.916[localplayer][D][458][ocalPlayerClient.cpp(428)]:startPlayThread 1
+08-26_17.09.53.916[localplayer][D][459][efetchController.cpp(102)]:PrefetchExecutorWrapper onResumePrefetch
+08-26_17.09.53.916[localplayer][D][458][video/Mp4Adaptor.cpp(102)]:start local player thread started:1
+08-26_17.09.53.916[localplayer][D][458][o/NervMp4Adaptor.cpp(015)]:NervMp4Adaptor() id 1, input stream
+08-26_17.09.53.916[localplayer][D][459][PrefetchExecutor.cpp(147)]:resume pefetch
+08-26_17.09.53.917[localplayer][D][458][ideo/ShortPlayer.cpp(273)]:handleStopPlay
+08-26_17.09.53.917[localplayer][D][458][o/NervMp4Adaptor.cpp(052)]:stopPlay, stream 0x0 id 1
+08-26_17.09.53.917[localplayer][D][458][video/Mp4Adaptor.cpp(213)]:closeMP4File
+08-26_17.09.53.917[localplayer][D][458][video/Mp4Adaptor.cpp(1139)]:stopPlay
+08-26_17.09.53.917[localplayer][D][459][efetchController.cpp(298)]:onIdle
+08-26_17.09.53.917[localplayer][D][458][ocalPlayerClient.cpp(076)]:onStopPlay
+08-26_17.09.53.917[localplayer][E][458][ocalPlayerClient.cpp(354)]:[error]in fun:getBottleNeckStat, local player stop already...
+08-26_17.09.53.917[localplayer][E][458][ocalPlayerClient.cpp(374)]:[error]in fun:GetDecodeStatForLocalPlay, local player stop already...
+08-26_17.09.53.917[localplayer][I][536][er/AudioPlayUnit.cpp(299)]:[play-unit]decode/mix thread start
+08-26_17.09.53.917[localplayer][I][536][er/AudioPlayUnit.cpp(022)]:AudioPlayUnit::runLoop starts
+08-26_17.09.53.917[localplayer][D][458][video/Mp4Adaptor.cpp(1147)]:yylocalplayersdk_resetLocalPlayJitter
+08-26_17.09.53.917[localplayer][I][458][er/AudioPlayUnit.cpp(725)]:clearPlayers, running=1
+08-26_17.09.53.917[localplayer][E][458][ocalPlayerClient.cpp(299)]:[error]in fun:resetLocalPlayers, local player stop already...
+08-26_17.09.53.917[localplayer][I][458][video/Mp4Adaptor.cpp(1159)]:stop local player thread ++
+08-26_17.09.53.917[localplayer][D][458][ocalPlayerClient.cpp(442)]:stopPlayThread
+08-26_17.09.53.918[localplayer][I][540][essageLooperImpl.cpp(107)]:msgLoop++
+08-26_17.09.54.009[localplayer][E][536][er/AudioPlayUnit.cpp(115)]:AEC yylocalplayer::AudioPlayStats::playMinBufferSize 15876 + chunkLength 1764 * 2
+08-26_17.09.54.009[localplayer][I][536][er/AudioPlayUnit.cpp(628)]:clear players
+08-26_17.09.54.019[localplayer][D][540][ocalPlayerClient.cpp(133)]:mDoPlayStatusCallBack code 23 data 0
+08-26_17.09.54.020[localplayer][D][540][ocalPlayerClient.cpp(141)]:doCallback end code 23 data 0
+08-26_17.09.54.021[localplayer][I][32586][r/LocalPlayerJni.cpp(970)]:nativePrefetch_longvideo
+08-26_17.09.54.021[localplayer][D][32586][efetchController.cpp(149)]:prefetchNervLongVideo url:https://sgp-test.imo.im/s/object_a/.G12yliMpjARCqectYLMgNZLkkBV/
+08-26_17.09.54.021[localplayer][D][32586][efetchController.cpp(310)]:prefetch state changed, 0 to 2
+08-26_17.09.54.021[localplayer][D][32586][efetchController.cpp(046)]:PrefetchExecutorWrapper prefetchLongVideo url:https://sgp-test.imo.im/s/object_a/.G12yliMpjARCqectYLMgNZLkkBV/
+08-26_17.09.54.021[localplayer][D][32586][red/PrefetchTask.cpp(017)]:new pre download task 0xc38d15f0
+08-26_17.09.54.021[localplayer][D][32586][fetchTopM3u8Task.cpp(035)]:new HlsPrefetchTopM3u8Task 0xc38d15f0 for https://sgp-test.imo.im/s/object_a/.G12yliMpjARCqectYLMgNZLkkBV/ localPath /storage/emulated/0/Android/data/com.imo.android.imoim/files/nerv-cache2/4854472239181550580/54c054f8b7af0bd47e311bdb88cf26f5cb6b0a0b resolution: 0
+08-26_17.09.54.021[localplayer][D][456][red/PrefetchTask.cpp(023)]:execute pre download task 0xc38d15f0
+08-26_17.09.54.023[localplayer][D][456][ed/SpeedCalculator.h(038)]:start one speed calculator
+08-26_17.09.54.045[localplayer][I][536][er/AudioPlayUnit.cpp(295)]:AudioPlayUnit::runLoop exits
+08-26_17.09.54.045[localplayer][I][536][er/AudioPlayUnit.cpp(303)]:[play-unit]decode/mix thread stop
+08-26_17.09.54.045[localplayer][D][536][PAL_Thread_posix.cpp(276)]:Thread with name:audio_mix_thread stopped
+08-26_17.09.54.050[localplayer][I][458][video/Mp4Adaptor.cpp(1162)]:stop local player thread --
+08-26_17.09.54.050[localplayer][D][458][video/Mp4Adaptor.cpp(213)]:closeMP4File
+08-26_17.09.54.050[localplayer][I][458][video/Mp4Adaptor.cpp(106)]:~Mp4Adaptor ++
+08-26_17.09.54.050[localplayer][D][458][video/Mp4Adaptor.cpp(919)]:stuckTsArr:[]
+08-26_17.09.54.050[localplayer][I][458][video/Mp4Adaptor.cpp(148)]:~Mp4Adaptor report sessionId:1 
+08-26_17.09.54.050[localplayer][D][458][ocalPlayerClient.cpp(133)]:mDoPlayStatusCallBack code 8 data 2
+08-26_17.09.54.051[localplayer][D][458][ocalPlayerClient.cpp(141)]:doCallback end code 8 data 2
+08-26_17.09.54.051[localplayer][I][458][video/Mp4Adaptor.cpp(153)]:~Mp4Adaptor --
+08-26_17.09.54.051[localplayer][D][458][ideo/ShortPlayer.cpp(499)]:handleDownloadResult 2, sessionId 1
+08-26_17.09.54.057[localplayer][D][458][ocalPlayerClient.cpp(310)]:doDownloadCallback taskId: 0, status: 4, data: 0
+08-26_17.09.54.068[localplayer][I][458][ocalPlayerClient.cpp(209)]:report play stat sessionId:1 stat:{"isprefetchonstuck":"0","fileSize":"0","duration":"0","policyJitter":"0","stuckCnt":"0","stuckTime":"0","playErrorBits":"0","resLevel":"255","skipFrameStatForDecodeLag":"0","displayLagForDecodeLag":"0","callStartPlayTime":"3","prepareTime":"-1","handleStartPlayTime":"5","cbPrepareTime":"-1","cbStartPlayTime":"-1","cbPauseTime":"-1","openMp4Time":"-1","pushVFToJitterTime":"-1","canPlayWaitTime":"-1","prefetchTime":"-1","canPlayRemainDLTime":"-1","canPlayCoefFinal":"0","canPlayCoef1":"0","canPlayCoef2":"0","canPlayCoef3":"0","surfaceAvailableTime":"-1","firstVFRecvTime":"-1","firstFrameOutputTime":"-1","firstDecodeTime":"-1","firstFrameDecodeCPLTime":"-1","downloadSpeedExp":"0","canPlayDLSize":"0","playProgress":"0","diffSecodeOutput":"0","firstStuckTime":"-1","maxDLPlayPosDiff":"0","ioPolicy":"0","firstRenderTimeSdk":"-1","minDLPlayerBuffer":"-1","startUnPlayErrCodeBits":"1","canPlayDLDuration":"0","maxGopSize":"0","l1M3u8Cached":"0","l2M3u8Cached":"0","startingTsSize":"0","startingTsCachedSize":"0","consecutiveStuckCnt":"0","curBwe":"-1","oldBitRate":"-1","oldCacheSize":"-1","nervError":"-1","gooseQoe":"-1","stuckcase":"0","labelcode":"0","jitterCodeValue":"0","audioDelayCorrection":"65355","videoSoftCodecConfig":"0","videoPlayFeatureSwitch":"65538","videoMultiThreadDecode":"1"}
+08-26_17.09.54.068[localplayer][D][458][ocalPlayerClient.cpp(214)]:doReportStatCallback sessionId:1
+08-26_17.09.54.708[localplayer][D][456][red/PrefetchTask.cpp(064)]:file size 1503450, initCacheSize 0
+08-26_17.09.54.708[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:8192
+08-26_17.09.54.708[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.55.129[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:16384
+08-26_17.09.55.129[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.55.130[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:24576
+08-26_17.09.55.130[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.55.171[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:32768
+08-26_17.09.55.172[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.55.172[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:40960
+08-26_17.09.55.172[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.55.574[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:49152
+08-26_17.09.55.574[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.55.575[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:57344
+08-26_17.09.55.575[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.55.804[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:65536
+08-26_17.09.55.804[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.55.852[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:73728
+08-26_17.09.55.852[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.55.861[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:81920
+08-26_17.09.55.861[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.55.949[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:90112
+08-26_17.09.55.949[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.55.989[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:98304
+08-26_17.09.55.989[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.55.991[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:106496
+08-26_17.09.55.991[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.56.031[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:114688
+08-26_17.09.56.031[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.56.667[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:122880
+08-26_17.09.56.667[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.56.668[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:131072
+08-26_17.09.56.668[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.56.670[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:139264
+08-26_17.09.56.670[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.56.670[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:147456
+08-26_17.09.56.670[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.56.671[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:155648
+08-26_17.09.56.671[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.56.671[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:163840
+08-26_17.09.56.671[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.56.672[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:172032
+08-26_17.09.56.672[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.56.674[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:180224
+08-26_17.09.56.674[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.56.675[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:188416
+08-26_17.09.56.675[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.56.676[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:196608
+08-26_17.09.56.676[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.56.677[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:204800
+08-26_17.09.56.677[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.56.679[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:237568
+08-26_17.09.56.679[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.56.679[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.56.680[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.56.681[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.57.248[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:245760
+08-26_17.09.57.248[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.57.281[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:253952
+08-26_17.09.57.281[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.57.282[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:262144
+08-26_17.09.57.282[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.57.282[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:270336
+08-26_17.09.57.282[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.57.283[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:278528
+08-26_17.09.57.283[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.57.286[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:286720
+08-26_17.09.57.286[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.57.287[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:294912
+08-26_17.09.57.288[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.57.314[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:303104
+08-26_17.09.57.314[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.57.314[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:311296
+08-26_17.09.57.314[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.57.318[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:319488
+08-26_17.09.57.318[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.57.318[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:327680
+08-26_17.09.57.318[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.57.319[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:335872
+08-26_17.09.57.319[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.57.332[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:393216
+08-26_17.09.57.357[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.57.358[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.57.361[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.57.361[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.57.362[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.57.362[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.57.363[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.57.363[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:401408
+08-26_17.09.57.363[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.57.364[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:409600
+08-26_17.09.57.364[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.57.365[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:417792
+08-26_17.09.57.365[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.57.366[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:425984
+08-26_17.09.57.366[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.57.367[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:434176
+08-26_17.09.57.367[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.57.369[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:442368
+08-26_17.09.57.369[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.57.369[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:450560
+08-26_17.09.57.370[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.57.370[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:458752
+08-26_17.09.57.370[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.57.371[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:466944
+08-26_17.09.57.371[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.57.372[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:475136
+08-26_17.09.57.372[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.57.373[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:483328
+08-26_17.09.57.373[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.57.374[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:491520
+08-26_17.09.57.374[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.57.375[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:499712
+08-26_17.09.57.375[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.57.378[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:507904
+08-26_17.09.57.379[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.57.380[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:516096
+08-26_17.09.57.380[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.57.381[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:524288
+08-26_17.09.57.381[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.57.382[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:532480
+08-26_17.09.57.382[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.57.383[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:540672
+08-26_17.09.57.383[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.57.384[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:548864
+08-26_17.09.57.384[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.57.385[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:557056
+08-26_17.09.57.385[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.58.615[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:565248
+08-26_17.09.58.615[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.58.801[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:573440
+08-26_17.09.58.801[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.58.802[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:630784
+08-26_17.09.58.802[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.58.803[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.58.804[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.58.804[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.58.804[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.58.805[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.58.805[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.58.808[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:638976
+08-26_17.09.58.808[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.58.808[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:647168
+08-26_17.09.58.808[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.58.809[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:655360
+08-26_17.09.58.809[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.58.809[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:663552
+08-26_17.09.58.809[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.58.810[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:671744
+08-26_17.09.58.810[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.58.810[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:679936
+08-26_17.09.58.810[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.58.811[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:688128
+08-26_17.09.58.811[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.58.886[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:696320
+08-26_17.09.58.886[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.58.887[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:704512
+08-26_17.09.58.887[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.58.888[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:712704
+08-26_17.09.58.888[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.58.888[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:770048
+08-26_17.09.58.888[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.58.889[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.58.889[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.58.890[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.58.890[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.58.890[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.58.891[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.58.891[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:794624
+08-26_17.09.58.891[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.58.891[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.58.892[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.58.892[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:811008
+08-26_17.09.58.892[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.58.892[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.58.893[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:835584
+08-26_17.09.58.893[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.58.893[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.58.894[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.58.894[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:860160
+08-26_17.09.58.894[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.58.895[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.58.895[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.58.917[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:892928
+08-26_17.09.58.917[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.58.917[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.58.918[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.58.918[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.58.918[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:901120
+08-26_17.09.58.918[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.09.59.392[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:909312
+08-26_17.09.59.392[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.10.00.202[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:917504
+08-26_17.10.00.202[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.10.00.202[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:958464
+08-26_17.10.00.202[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.10.00.203[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.10.00.203[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.10.00.203[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.10.00.203[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.10.00.204[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:1146880
+08-26_17.10.00.204[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.10.00.204[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.10.00.204[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.10.00.205[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.10.00.205[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.10.00.205[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.10.00.206[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.10.00.206[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.10.00.206[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.10.00.207[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.10.00.207[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.10.00.208[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.10.00.208[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.10.00.209[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.10.00.209[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.10.00.209[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.10.00.209[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.10.00.210[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.10.00.210[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.10.00.210[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.10.00.211[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.10.00.211[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.10.00.211[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.10.00.901[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:1155072
+08-26_17.10.00.902[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.10.00.904[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:1163264
+08-26_17.10.00.904[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.10.00.905[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:1179648
+08-26_17.10.00.905[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.10.00.905[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.10.00.908[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:1187840
+08-26_17.10.00.908[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.10.00.909[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:1196032
+08-26_17.10.00.909[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.10.00.909[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:1204224
+08-26_17.10.00.909[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.10.00.910[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:1212416
+08-26_17.10.00.910[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.10.00.910[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:1220608
+08-26_17.10.00.910[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.10.00.911[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:1228800
+08-26_17.10.00.911[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.10.00.912[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:1253376
+08-26_17.10.00.912[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.10.00.912[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.10.00.913[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.10.00.913[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:1400832
+08-26_17.10.00.913[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.10.00.913[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.10.00.914[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.10.00.914[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.10.00.915[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.10.00.915[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.10.00.915[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.10.00.916[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.10.00.916[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.10.00.917[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.10.00.917[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.10.00.918[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.10.00.918[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.10.00.918[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.10.00.919[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.10.00.919[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.10.00.919[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.10.00.920[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.10.00.984[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:1409024
+08-26_17.10.00.984[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.10.00.987[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:1417216
+08-26_17.10.00.987[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.10.00.987[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:1425408
+08-26_17.10.00.987[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.10.01.285[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:1433600
+08-26_17.10.01.285[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.10.01.285[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:1482752
+08-26_17.10.01.285[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.10.01.285[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.10.01.286[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.10.01.286[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.10.01.286[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.10.01.287[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.10.01.288[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:1490944
+08-26_17.10.01.288[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.10.01.288[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:1499136
+08-26_17.10.01.288[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 8192
+08-26_17.10.01.375[localplayer][D][456][red/PrefetchTask.cpp(085)]:cache size:1503450
+08-26_17.10.01.375[localplayer][D][456][red/PrefetchTask.cpp(149)]:read size 4314
+08-26_17.10.01.375[localplayer][D][456][/m3u8/M3u8Parser.cpp(077)]:parse done
+08-26_17.10.01.375[localplayer][D][456][ed/SpeedCalculator.h(047)]:end one speed calculator
+08-26_17.10.01.375[localplayer][D][456][red/PrefetchTask.cpp(110)]:download successful
+08-26_17.10.01.375[localplayer][E][456][fetchTopM3u8Task.cpp(105)]:parse top m3u8 fail, no program info!
+08-26_17.10.01.375[localplayer][D][456][PrefetchExecutor.cpp(096)]:prefetch finish!
+08-26_17.10.01.375[localplayer][D][456][efetchController.cpp(349)]:Nerv prefetch onFinish
+08-26_17.10.01.375[localplayer][D][456][efetchController.cpp(310)]:prefetch state changed, 2 to 0
+08-26_17.10.01.375[localplayer][D][456][efetchController.cpp(202)]:onfinished
+08-26_17.10.01.375[localplayer][D][540][ocalPlayerClient.cpp(133)]:mDoPlayStatusCallBack code 21 data 0
+08-26_17.10.01.382[localplayer][D][540][ocalPlayerClient.cpp(141)]:doCallback end code 21 data 0
+08-26_17.10.01.383[localplayer][D][32586][r/LocalPlayerJni.cpp(650)]:nativeOnEmptyPrefetchList
+08-26_17.10.01.383[localplayer][D][32586][efetchController.cpp(167)]:onEmptyPrefetchList
+08-26_17.10.01.383[localplayer][D][32586][efetchController.cpp(087)]:onEmptyPrefetchList
